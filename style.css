@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "sodo sans";
+  src: url(./Font/SoDo-Sans-SemiBold.ttf);
+}
+
+@media (max-width: 479px) {
+  .footer {
+    margin-top: 35% !important;
+  }
+}
+
+body {
+  background-color: #D68192;
+  padding: 10px;
+}
+
+.rounded img {
+  border-radius: 50%;
+}
+
+.media-body,
+.mt-4,
+.footer {
+  font-family: "sodo sans";
+  color: #fff;
+}
+
+.mt-4 button {
+  color: #fff;
+}
+
+h5 {
+  color: #ffffff;
+}
+
+.name {
+  color: #ffffff;
+}
+
+#email {
+  text-decoration: none;
+  float: right;
+  color: #ffffff;
+}
+
+.footer {
+  margin-top: 5% !important;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.footer a {
+  font-size: 6px;
+}
+
+.media-body p {
+  margin-top: 16px;
+}
+
+hr {
+  border-top: #fff;
+}
