@@ -13,7 +13,8 @@ Clone do Linktree feito com HTML e Bootstrap.
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115798226/202208320-65b301f8-104d-47b4-af8f-2d853e8b026e.png">
+  <img src="![print](https://github.com/warleymts/linktreeana/assets/115798226/d97f123c-037b-4e4e-a21c-13fa12087690)
+">
 
 </p>
 
