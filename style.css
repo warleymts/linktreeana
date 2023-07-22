@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #D68192;
+  background-color: #f1a9b8;
   padding: 10px;
 }
 
@@ -22,19 +22,20 @@ body {
 .mt-4,
 .footer {
   font-family: "sodo sans";
-  color: #fff;
+  color: #000000;
 }
 
 .mt-4 button {
   color: #fff;
 }
 
+
 h5 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .name {
-  color: #ffffff;
+  color: #000000;
 }
 
 #email {
