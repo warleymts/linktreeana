@@ -22,26 +22,32 @@ body {
 .mt-4,
 .footer {
   font-family: "sodo sans";
-  color: #000000;
+  color: black !important;
+}
+
+/*definir como importante */
+
+.btn-outline-dark {
+  color: black !important;
 }
 
 .mt-4 button {
-  color: #000000;
+  color: black !important;
 }
 
 
 h5 {
-  color: #000000;
+  color: black !important;
 }
 
 .name {
-  color: #000000;
+  color: black !important;
 }
 
 #email {
   text-decoration: none;
   float: right;
-  color: #000000;
+  color: black !important;
 }
 
 .footer {
@@ -59,5 +65,5 @@ h5 {
 }
 
 hr {
-  border-top: #000000;
+  border-top: black !important;
 }
