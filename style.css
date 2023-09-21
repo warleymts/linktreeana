@@ -27,14 +27,9 @@ body {
 
 /*definir como importante */
 
-.btn-outline-dark {
-  color: black !important;
-}
-
 .mt-4 button {
   color: black !important;
 }
-
 
 h5 {
   color: black !important;
