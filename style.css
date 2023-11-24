@@ -10,20 +10,44 @@
 }
 
 body {
-  background-color: #f1a9b8;
+  background-color: #E1DACA;
   padding: 10px;
+}
+
+.subtitle {
+  padding-top: 0%;
+font-size: 14px;
+color: #313131 !important;
+font-style: italic;
+}
+
+p {
+  margin-block-end: 0;
+}
+
+i {
+  font-size: 15px;
 }
 
 .rounded img {
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .media-body,
 .mt-4,
 .footer {
   font-family: "sodo sans";
-  color: black !important;
+  color: #313131 !important;
 }
+
+.btn-outline-dark {
+  color: #E1DACA;
+  background-color: #B29079;
+  border-color: #B29079;
+}
+
+
 
 /*definir como importante */
 
@@ -32,11 +56,11 @@ body {
 }
 
 h5 {
-  color: black !important;
+  color: #313131 !important;
 }
 
 .name {
-  color: black !important;
+  color: #313131 !important;
 }
 
 #email {
@@ -62,3 +86,16 @@ h5 {
 hr {
   border-top: black !important;
 }
+
+.social-link {
+  color: #B29079;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* ao passar o mouse no social link, mudar a cor para preto*/ 
+.social-link:hover {
+  color: #313131;
+}
+
+
